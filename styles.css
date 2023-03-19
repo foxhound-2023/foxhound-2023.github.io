@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Special";
+    src: URL("SpecialElite-Regular.ttf") format("truetype");
+}
+
+body {
+    font-family: "Special";
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    align-self: center;
+}
+
+#Start{
+    height: 600px;
+    width: 1200px;
+    border-radius: 10px;
+    
+}
+#Log{
+
+
+}
